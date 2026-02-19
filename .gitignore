@@ -1,0 +1,20 @@
+# ignore trained models
+models/
+*.pt
+*.pth
+*.pkl
+*.h5
+
+# ignore outputs
+outputs/
+*.pdf
+
+# python cache
+__pycache__/
+
+# virtual environment
+venv/
+.env
+
+# system files
+.DS_Store
