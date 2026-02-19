@@ -66,6 +66,3 @@ https://github.com/kruthigowda5
 
 
 
-
-
-The threshold was calibrated using validation data and confusion matrix analysis to balance false positives and false negatives.
